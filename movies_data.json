@@ -1,0 +1,36 @@
+{
+  "directors": [
+    {
+      "name": "Christopher Nolan",
+      "movies": [
+        {"title": "Inception", "runtime": "148 minutes"},
+        {"title": "Interstellar", "runtime": "169 minutes"},
+        {"title": "Dunkirk", "runtime": "106 minutes"}
+      ]
+    },
+    {
+      "name": "Steven Spielberg",
+      "movies": [
+        {"title": "Jurassic Park", "runtime": "127 minutes"},
+        {"title": "Schindler's List", "runtime": "195 minutes"},
+        {"title": "E.T. the Extra-Terrestrial", "runtime": "115 minutes"}
+      ]
+    },
+    {
+      "name": "Quentin Tarantino",
+      "movies": [
+        {"title": "Pulp Fiction", "runtime": "154 minutes"},
+        {"title": "Kill Bill: Vol. 1", "runtime": "111 minutes"},
+        {"title": "Django Unchained", "runtime": "165 minutes"}
+      ]
+    },
+    {
+      "name": "Martin Scorsese",
+      "movies": [
+        {"title": "Goodfellas", "runtime": "146 minutes"},
+        {"title": "The Wolf of Wall Street", "runtime": "180 minutes"},
+        {"title": "Taxi Driver", "runtime": "114 minutes"}
+      ]
+    }
+  ]
+}
